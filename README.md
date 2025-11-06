@@ -24,7 +24,7 @@ Muhammad Aqsha Fadilah jailani
 
 ## 🌐 Topologi 
 Tambahkan gambar topologi:
-![Topologi Jaringan](<img width="618" height="410" alt="image" src="https://github.com/user-attachments/assets/7a87b699-1d3b-4d10-90ae-d0606cb792a9" />)
+![Topologi Jaringan]<img width="618" height="410" alt="image" src="https://github.com/user-attachments/assets/7a87b699-1d3b-4d10-90ae-d0606cb792a9" />
 
 ## ⚙️ Langkah Konfigurasi
 Gunakan list bernomor atau bullet:
