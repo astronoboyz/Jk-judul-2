@@ -14,23 +14,17 @@ screenshot hasil percobaan
 <img width="710" height="248" alt="image" src="https://github.com/user-attachments/assets/f50b0478-0718-4691-83be-7b140d2a323c" />
 3. ping dari switch ke pc b
 <img width="796" height="141" alt="image" src="https://github.com/user-attachments/assets/4704f59c-02ad-437c-8ca2-75f232c07867" />
-# Judul Proyek
-Deskripsi singkat tentang proyek (tujuan, teknologi yang digunakan, atau konteks tugas).
+# Jk judul 2
+Muhammad Aqsha Fadilah jailani
 
-## 🧩 Daftar Isi
-1. [Deskripsi Proyek](#deskripsi-proyek)
-2. [Topologi atau Diagram](#topologi-atau-diagram)
-3. [Langkah Konfigurasi](#langkah-konfigurasi)
-4. [Hasil Pengujian](#hasil-pengujian)
-5. [Kesimpulan](#kesimpulan)
+## 🧩 
+1. [Link Youtube](#deskripsi-proyek)
+2. [file yang sudah tekonfigurasi](#topologi-atau-diagram)
 
-## 📝 Deskripsi Proyek
-Tuliskan penjelasan singkat, misalnya:
-> Proyek ini mensimulasikan koneksi jaringan antara PC A dan PC B menggunakan Cisco Packet Tracer dengan konfigurasi IP dan pengujian ping.
 
-## 🌐 Topologi atau Diagram
+## 🌐 Topologi 
 Tambahkan gambar topologi:
-![Topologi Jaringan](images/topologi.png)
+![Topologi Jaringan](<img width="618" height="410" alt="image" src="https://github.com/user-attachments/assets/7a87b699-1d3b-4d10-90ae-d0606cb792a9" />)
 
 ## ⚙️ Langkah Konfigurasi
 Gunakan list bernomor atau bullet:
