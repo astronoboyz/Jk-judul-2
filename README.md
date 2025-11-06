@@ -1,7 +1,7 @@
 # Jk-judul-2
-Nama: muhammad Aqsha Fadilah jailani
-NPM: 2315061127
-PJK E
+#Nama: muhammad Aqsha Fadilah jailani
+#NPM: 2315061127
+#PJK E
 
 link YOUTUbe:
 file configurasi (pkt)
